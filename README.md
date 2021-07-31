@@ -1,4 +1,4 @@
-# project-2-Data-Analyst-Nanodegree-Program
+# Project-2-Data-Analyst-Nanodegree-Program
 
 This dataset contains information about 10,000 movies, short films and tv series that collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year. In this presentation, based on this dataset various questions will be answered for the curious minds.
 
